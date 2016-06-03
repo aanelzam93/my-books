@@ -1,0 +1,7 @@
+catatan : aplikasi ini dibuat dengan menggunakan VS2008 
+harap gunakan versi yang sama untuk menghindari kesalahan.
+untuk document export sendiri , ada bbrp source yang di tulis secara statis pada document seperti pada 
+string connectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;Data
+Source=E:\barang.xls;Extended Properties=""Excel 8.0;HDR=YES;""";
+
+harap ganti sesuai dengan drive yang anda miliki.

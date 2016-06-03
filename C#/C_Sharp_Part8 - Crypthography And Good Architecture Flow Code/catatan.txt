@@ -1,0 +1,3 @@
+catatan : aplikasi ini dibuat dengan menggunakan VS2008 dan SQL2005
+harap gunakan versi yang sama untuk menghindari kesalahan.
+jangan lupa ganti connection string dan restore database dengan nama database "SQL2005".

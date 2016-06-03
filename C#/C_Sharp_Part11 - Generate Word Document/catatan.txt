@@ -1,0 +1,3 @@
+catatan : aplikasi ini dibuat dengan menggunakan VS2008 
+harap gunakan versi yang sama untuk menghindari kesalahan.
+untuk document export sendiri , ditulis secara statis pada Source pada drive F:/ , apabila anda tidak memiliki drive ini , maka ganti drive sesuai dengan drive yang anda miliki.

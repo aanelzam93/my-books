@@ -1,0 +1,2 @@
+Aplikasi ini dibuat dengan menggunakan VS2008, harap membuka dengan versi yang lama
+agar tidak terjadi error dan jangan lupa untuk backup database dan ganti connection stringnya

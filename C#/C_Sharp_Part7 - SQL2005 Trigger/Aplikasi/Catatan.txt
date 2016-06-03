@@ -1,0 +1,1 @@
+Aplikasi ini dibuat dengan menggunakan VS2008 dan SQL2005, harap membuka dengan versi yang baru agar tidak terjadi error dan jangan lupa untuk restore database dengan nama yang sama dan ganti connection stringnya sesuai dengan nama server anda
